@@ -1,0 +1,14 @@
+# Shell script artifacts
+*.log
+*.tmp
+*.swp
+*~
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+/tmp/
+/tmp/*
+!tmp/.gitkeep 
