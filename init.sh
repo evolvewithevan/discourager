@@ -21,7 +21,7 @@ UPTIME_THRESHOLD_DAYS=7
 TEMP_THRESHOLD_CELSIUS=75
 
 # Disk space threshold (percentage)
-DISK_SPACE_THRESHOLD=10
+DISK_SPACE_THRESHOLD=80
 
 # Logging
 LOG_FILE="/tmp/discourager_$(date +%Y%m%d_%H%M%S).log"
